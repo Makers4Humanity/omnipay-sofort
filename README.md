@@ -1,4 +1,4 @@
-SOFORT Überweisung Omnipay gateway
+Klarna- (SOFORT-) Überweisung Omnipay gateway
 ==============
 
 [![Build Status](https://travis-ci.org/aimeoscom/omnipay-sofort.png?branch=master)](https://travis-ci.org/aimeoscom/omnipay-sofort)
